@@ -1,0 +1,5 @@
+*/*/*/*
+!*/*/*/*.pdf
+org-latex-init.el
+!.gitignore
+!README.*
